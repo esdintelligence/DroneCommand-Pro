@@ -1,0 +1,28 @@
+# Security Policy – DroneCommand Pro
+
+## Supported Versions
+Security updates apply to the latest production version only.
+
+## Reporting a Vulnerability
+If you discover a security issue, contact:
+security@eaglesightdroneintelligence.com
+
+Please include:
+- Description of the issue
+- Steps to reproduce
+- Potential impact
+- Suggested fix (optional)
+
+We respond within 72 hours.
+
+## Responsible Disclosure
+Do NOT publicly disclose vulnerabilities without written approval.
+
+## Forbidden Activities
+Users may not:
+- Run automated scanners
+- Attempt privilege escalation
+- Exploit API endpoints
+- Perform load testing without permission
+
+Violations may result in immediate termination and reporting to authorities.
