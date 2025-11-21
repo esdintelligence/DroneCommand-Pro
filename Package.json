@@ -1,0 +1,11 @@
+{
+  "name": "dronecommand-pro",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "pnpm": "^9.0.0"
+  }
+}
